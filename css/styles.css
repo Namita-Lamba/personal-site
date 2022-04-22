@@ -1,0 +1,41 @@
+body{
+  margin: 0 auto 0 auto;
+}
+h1{
+  font-size: 50px;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+.top{
+  text-align: center;
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+.top-cloud{
+  position: absolute;
+  top: 200px;
+  left: 400px;
+}
+.bottom-cloud{
+  position: absolute;
+  top: 50px;
+  right: 400px;
+}
+.middle-container{
+  text-align: center;
+}
+.profile{
+  padding: 30px;
+}
+.img-size{
+  height: 200px;
+  width: 200px;
+}
+.skill-row{
+  padding: 30px;
+}
+.bottom-container{
+  padding: 20px;
+  text-align: center;
+}
